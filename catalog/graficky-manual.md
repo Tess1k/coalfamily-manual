@@ -1,8 +1,8 @@
-> „Grafikův věrný pomocník pro práci se značkou!“
+> „Děláme to na plný COALe!“
 
-Následující stránky tohoto webu nabízí zjednodušená pravidla a prvky ke stažení. V níže přiloženém PDF souboru naleznete podrobný grafický manuál s doplňkovými kapitolami, které dále rozšířují práci s designem společnosti coalsoft. Tento manuál je také hlavním opěrným bodem práce se značkou.
+Následující stránky tohoto webu nabízí zjednodušená pravidla a prvky ke stažení. V níže přiloženém PDF souboru naleznete podrobný grafický manuál s doplňkovými kapitolami, které dále rozšířují práci s designem coalfamily. Tento manuál je také hlavním opěrným bodem práce se značkou.
 
-V případě rozsáhlých grafických prací zahrnující značku coalsoft doporučujeme používat plný grafický manuál.
+V případě rozsáhlých grafických prací zahrnující značku coalfamily doporučujeme používat plný grafický manuál.
 
 
 
@@ -10,7 +10,7 @@ V případě rozsáhlých grafických prací zahrnující značku coalsoft dopor
 title: Grafický manuál (.pdf)
 span: 6
 subtitle: 9.6 MB | 36 stran, 19 dvoustran
-url: assets/coalsoft_graficky-manual_digital.pdf
+url: assets/coalfamily_graficky-manual_digital.pdf
 ```
 
 
