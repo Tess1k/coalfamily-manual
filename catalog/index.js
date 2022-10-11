@@ -93,12 +93,12 @@ const pages = [
   },
   {
     path: "/vizualni-prvky",
-    title: "Vizální prvky",
+    title: "Vizuální prvky",
     content: pageLoader(() => import("./vizualni-prvky.md"))
   },
 ];
 
 ReactDOM.render(
-  <Catalog title="coalsoft" pages={pages} theme={theme} logoSrc="/src/logo/coalsoft_logo_header.png"/>,
+  <Catalog title="coalfamily" pages={pages} theme={theme} logoSrc="/src/logo/coalfamily_logo_header.png"/>,
   document.getElementById("catalog")
 );
