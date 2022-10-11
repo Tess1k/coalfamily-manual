@@ -15,7 +15,7 @@ const theme = {
   lightColor: "#D6D6D6",
 
   // Used in PageHeader
-  pageHeadingBackground: "#00B5E2",
+  pageHeadingBackground: "#26C672",
   pageHeadingTextColor: "#fff",
 
   // Used in Menu and PageHeader to make sure the top parts have
@@ -28,11 +28,11 @@ const theme = {
 
   // Used in ResponsiveTabs (tab text), Download specimen (title text).
   // Typography: headings.
-  brandColor: "#00B5E2",
+  brandColor: "#26C672",
 
   sidebarColor: "#FFFFFF",
   sidebarColorText: "#27251F",
-  sidebarColorTextActive: "#00B5E2",
+  sidebarColorTextActive: "#26C672",
   sidebarColorLine: "#EBEBEB",
   sidebarColorHeading: "#003B5C",
 

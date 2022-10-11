@@ -9,7 +9,7 @@ V případě rozsáhlých grafických prací zahrnující značku coalfamily dop
 ```download
 title: Grafický manuál (.pdf)
 span: 6
-subtitle: 9.6 MB | 36 stran, 19 dvoustran
+subtitle: 9.5 MB | 36 stran, 19 dvoustran
 url: assets/coalfamily_graficky-manual_digital.pdf
 ```
 

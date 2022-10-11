@@ -1,9 +1,6 @@
-> „Coalsoft píše systémy. Jak se ale píše coalsoft?“
+> „Coalfamily je tým. Jak se ale píše coalfamily?“
 
-V případě značky coalsoft využíváme dvě rodiny typu písma. Rozdělujeme
-jej na primární a sekundární. Primární typ písma, neboli primární font, patří do rodiny
-patkových. Sekundární naopak do kategorie bezpatkových. Primární font využívame
-zejména pro nadpisy, sekundární spíše pro odstavcový text.
+V případě značky coalfamily využíváme dvě rodiny typu písma. Rozdělujeme jej na primární a sekundární. Primární typ písma, neboli primární font, patří do rodiny patkových. Sekundární naopak do kategorie bezpatkových. Primární font využívame zejména pro nadpisy, sekundární spíše pro odstavcový text.
 
 ## Primární font
 > Lekton

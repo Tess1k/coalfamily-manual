@@ -1,8 +1,8 @@
 > „Logo je to, co Vám zůstane, když shoří továrna...“
 
-Logo je jistě nejdůležitějším prvkem v případě vizuální identity značky. Proto je důležité, aby jeho pravidla byla dodržována. Ze zásady má logo dvě hlavní varianty, resp. dvě orientace. První je orientace v poměru 1 : 1 - na čtvrec, druhá orientace na obdélník - v poměru 3 : 1. Využití vždy závisí na cílovém formátu.
+Logo je jistě nejdůležitějším prvkem v případě vizuální identity značky. Proto je důležité, aby jeho pravidla byla dodržována. Ze zásady má logo dvě hlavní varianty, resp. dvě orientace. První je orientace v poměru 1 : 1 - na čtvrec, druhá orientace na obdélník - v poměru 4 : 1. Využití vždy závisí na cílovém formátu.
 
-Níže naleznete veškeré možné variace loga společnosti coalsoft. Každé logo je složeno ze dvou prvků - symbolu a textu. V následujících sekcích je uveden ještě samotný symbol, který lze využít jako samostatný prvek. Logo je rozděleno na dvě orientace, každá z těchto mutací má dvě barevné varianty - barevnou a prostou. U barevných log je symbol modrý, u prostých je celé logo jednou barvou. Prostá loga lze v případě nutnosti přebarvovat na jiné barvy.
+Níže naleznete veškeré možné variace loga coalfamily. Každé logo je složeno ze dvou prvků - symbolu a textu. V následujících sekcích je uveden ještě samotný symbol, který lze využít jako samostatný prvek. Logo je rozděleno na dvě orientace, každá z těchto mutací má dvě barevné varianty - barevnou a prostou. U barevných log je symbol zelený, u prostých je celé logo jednou barvou. Prostá loga lze v případě nutnosti přebarvovat na jiné barvy.
 
 ## Barevný symbol (1 : 1)
 > Symbol je doplňkovou variantou, kterou lze použít samosatně. Barevný symbol by se neměl přebarvovat a lze použít na bílém a čeném podkladu.
@@ -10,35 +10,35 @@ Níže naleznete veškeré možné variace loga společnosti coalsoft. Každé l
 ```image
 scale: true
 span: 3
-src: "src/logo/coalsoft_logo_icon-color.png"
+src: "src/logo/coalfamily_logo_icon-color.png"
 ```
 ```image
 scale: true
 span: 3
 dark: true
-src: "src/logo/coalsoft_logo_icon-color.png"
+src: "src/logo/coalfamily_logo_icon-color.png"
 ```
 ### Ke stažení
 ```download
 title: Barevný symbol (.png)
-filename: coalsoft_logo_icon-color.png
+filename: coalfamily_logo_icon-color.png
 subtitle: 10 kB
 span: 2
-url: "src/logo/coalsoft_logo_icon-color.png"
+url: "src/logo/coalfamily_logo_icon-color.png"
 ```
 ```download
 title: Barevný symbol (.svg)
-filename: coalsoft_logo_icon-color.svg
+filename: coalfamily_logo_icon-color.svg
 subtitle: 370 B
 span: 2
-url: src/logo/svg/coalsoft_logo_icon-color.svg
+url: src/logo/svg/coalfamily_logo_icon-color.svg
 ```
 ```download
 title: Barevný symbol (.pdf)
-filename: coalsoft_logo_icon-color.pdf
+filename: coalfamily_logo_icon-color.pdf
 subtitle: 25 kB
 span: 2
-url: src/logo/pdf/coalsoft_logo_icon-color.pdf
+url: src/logo/pdf/coalfamily_logo_icon-color.pdf
 ```
 
 ## Prostý symbol (1 : 1)
@@ -47,58 +47,58 @@ url: src/logo/pdf/coalsoft_logo_icon-color.pdf
 ```image
 scale: true
 span: 3
-src: "src/logo/coalsoft_logo_icon-black.png"
+src: "src/logo/coalfamily_logo_icon-black.png"
 ```
 ```image
 scale: true
 span: 3
 dark: true
-src: "src/logo/coalsoft_logo_icon-white.png"
+src: "src/logo/coalfamily_logo_icon-white.png"
 ```
 ### Ke stažení
 #### Tmavý symbol
 ```download
 title: Tmavý symbol (.png)
-filename: coalsoft_logo_icon-black.png
+filename: coalfamily_logo_icon-black.png
 subtitle: 10 kB
 span: 2
-url: "src/logo/coalsoft_logo_icon-black.png"
+url: "src/logo/coalfamily_logo_icon-black.png"
 ```
 ```download
 title: Tmavý symbol (.svg)
-filename: coalsoft_logo_icon-black.svg
+filename: coalfamily_logo_icon-black.svg
 subtitle: 370 B
 span: 2
-url: "src/logo/svg/coalsoft_logo_icon-black.svg"
+url: "src/logo/svg/coalfamily_logo_icon-black.svg"
 ```
 ```download
 title: Tmavý symbol (.pdf)
-filename: coalsoft_logo_icon-black.pdf
+filename: coalfamily_logo_icon-black.pdf
 subtitle: 25 kB
 span: 2
-url: "src/logo/pdf/coalsoft_logo_icon-black.pdf"
+url: "src/logo/pdf/coalfamily_logo_icon-black.pdf"
 ```
 #### Světlý symbol
 ```download
 title: Světlý symbol (.png)
-filename: coalsoft_logo_icon-white.png
+filename: coalfamily_logo_icon-white.png
 subtitle: 10 kB
 span: 2
-url: "src/logo/coalsoft_logo_icon-white.png"
+url: "src/logo/coalfamily_logo_icon-white.png"
 ```
 ```download
 title: Světlý symbol (.svg)
-filename: coalsoft_logo_icon-white.svg
+filename: coalfamily_logo_icon-white.svg
 subtitle: 370 B
 span: 2
-url: "src/logo/svg/coalsoft_logo_icon-white.svg"
+url: "src/logo/svg/coalfamily_logo_icon-white.svg"
 ```
 ```download
 title: Světlý symbol (.pdf)
-filename: coalsoft_logo_icon-white.pdf
+filename: coalfamily_logo_icon-white.pdf
 subtitle: 25 kB
 span: 2
-url: "src/logo/pdf/coalsoft_logo_icon-white.pdf"
+url: "src/logo/pdf/coalfamily_logo_icon-white.pdf"
 ```
 
 ## Barevné logo (1 : 1)
@@ -107,60 +107,60 @@ url: "src/logo/pdf/coalsoft_logo_icon-white.pdf"
 ```image
 scale: true
 span: 3
-src: "src/logo/coalsoft_logo_square-color-black.png"
-overlay: "src/logo/overlay/coalsoft_logo_square-color-black.png"
+src: "src/logo/coalfamily_logo_square-color-black.png"
+overlay: "src/logo/overlay/coalfamily_logo_square-color-black.png"
 ```
 ```image
 scale: true
 span: 3
 dark: true
-src: "src/logo/coalsoft_logo_square_color-white.png"
-overlay: "src/logo/overlay/coalsoft_logo_square_color-white.png"
+src: "src/logo/coalfamily_logo_square_color-white.png"
+overlay: "src/logo/overlay/coalfamily_logo_square_color-white.png"
 ```
 ### Ke stažení
 #### Tmavá verze
 ```download
 title: Tmavá verze barevného loga (.png)
-filename: coalsoft_logo_square-color-black.png
+filename: coalfamily_logo_square-color-black.png
 subtitle: 17 kB
 span: 2
-url: "src/logo/coalsoft_logo_square-color-black.png"
+url: "src/logo/coalfamily_logo_square-color-black.png"
 ```
 ```download
 title: Tmavá verze barevného loga (.svg)
-filename: coalsoft_logo_square-color-black.svg
+filename: coalfamily_logo_square-color-black.svg
 subtitle: 4 kB
 span: 2
-url: "src/logo/svg/coalsoft_logo_square-color-black.svg"
+url: "src/logo/svg/coalfamily_logo_square-color-black.svg"
 ```
 ```download
 title: Tmavá verze barevného loga (.pdf)
-filename: coalsoft_logo_square-color-black.pdf
+filename: coalfamily_logo_square-color-black.pdf
 subtitle: 27 kB
 span: 2
-url: "src/logo/pdf/coalsoft_logo_square-color-black.pdf"
+url: "src/logo/pdf/coalfamily_logo_square-color-black.pdf"
 ```
 #### Světlá verze
 ```download
 title: Světlá verze barevného loga (.png)
-filename: coalsoft_logo_square-color-white.png
+filename: coalfamily_logo_square-color-white.png
 subtitle: 16 kB
 span: 2
-url: "src/logo/coalsoft_logo_square-color-white.png"
+url: "src/logo/coalfamily_logo_square-color-white.png"
 ```
 ```download
 title: Světlá verze barevného loga (.svg)
-filename: coalsoft_logo_square-color-white.svg
+filename: coalfamily_logo_square-color-white.svg
 subtitle: 4 kB
 span: 2
-url: "src/logo/svg/coalsoft_logo_square-color-white.svg"
+url: "src/logo/svg/coalfamily_logo_square-color-white.svg"
 ```
 ```download
 title: Světlá verze barevného loga (.pdf)
-filename: coalsoft_logo_square-color-white.pdf
+filename: coalfamily_logo_square-color-white.pdf
 subtitle: 27 kB
 span: 2
-url: "src/logo/pdf/coalsoft_logo_square-color-white.pdf"
+url: "src/logo/pdf/coalfamily_logo_square-color-white.pdf"
 ```
 
 ## Prosté logo (1 : 1)
@@ -169,60 +169,60 @@ url: "src/logo/pdf/coalsoft_logo_square-color-white.pdf"
 ```image
 scale: true
 span: 3
-src: "src/logo/coalsoft_logo_square_mono-black.png"
-overlay: "src/logo/overlay/coalsoft_logo_square_mono-black.png"
+src: "src/logo/coalfamily_logo_square_mono-black.png"
+overlay: "src/logo/overlay/coalfamily_logo_square_mono-black.png"
 ```
 ```image
 scale: true
 span: 3
 dark: true
-src: "src/logo/coalsoft_logo_square_mono-white.png"
-overlay: "src/logo/overlay/coalsoft_logo_square_mono-white.png"
+src: "src/logo/coalfamily_logo_square_mono-white.png"
+overlay: "src/logo/overlay/coalfamily_logo_square_mono-white.png"
 ```
 ### Ke stažení
 #### Tmavá verze
 ```download
 title: Tmavá verze prostého loga (.png)
-filename: coalsoft_logo_square-mono-black.png
+filename: coalfamily_logo_square-mono-black.png
 subtitle: 17 kB
 span: 2
-url: "src/logo/coalsoft_logo_square-mono-black.png"
+url: "src/logo/coalfamily_logo_square-mono-black.png"
 ```
 ```download
 title: Tmavá verze prostého loga (.svg)
-filename: coalsoft_logo_square-mono-black.svg
+filename: coalfamily_logo_square-mono-black.svg
 subtitle: 3 kB
 span: 2
-url: "src/logo/svg/coalsoft_logo_square-mono-black.svg"
+url: "src/logo/svg/coalfamily_logo_square-mono-black.svg"
 ```
 ```download
 title: Tmavá verze prostého loga (.pdf)
-filename: coalsoft_logo_square-mono-black.pdf
+filename: coalfamily_logo_square-mono-black.pdf
 subtitle: 27 kB
 span: 2
-url: "src/logo/pdf/coalsoft_logo_square-mono-black.pdf"
+url: "src/logo/pdf/coalfamily_logo_square-mono-black.pdf"
 ```
 #### Světlá verze
 ```download
 title: Světlá verze prostého loga (.png)
-filename: coalsoft_logo_square-mono-white.png
+filename: coalfamily_logo_square-mono-white.png
 subtitle: 16 kB
 span: 2
-url: "src/logo/coalsoft_logo_square-mono-white.png"
+url: "src/logo/coalfamily_logo_square-mono-white.png"
 ```
 ```download
 title: Světlá verze prostého loga (.svg)
-filename: coalsoft_logo_square-mono-white.svg
+filename: coalfamily_logo_square-mono-white.svg
 subtitle: 3 kB
 span: 2
-url: "src/logo/svg/coalsoft_logo_square-mono-white.svg"
+url: "src/logo/svg/coalfamily_logo_square-mono-white.svg"
 ```
 ```download
 title: Světlá verze prostého loga (.pdf)
-filename: coalsoft_logo_square-mono-white.pdf
+filename: coalfamily_logo_square-mono-white.pdf
 subtitle: 27 kB
 span: 2
-url: "src/logo/pdf/coalsoft_logo_square-mono-white.pdf"
+url: "src/logo/pdf/coalfamily_logo_square-mono-white.pdf"
 ```
 
 ## Barevné logo (3 : 1)
@@ -231,60 +231,60 @@ url: "src/logo/pdf/coalsoft_logo_square-mono-white.pdf"
 ```image
 scale: true
 span: 3
-src: "src/logo/coalsoft_logo_long_color-black.png"
-overlay: "src/logo/overlay/coalsoft_logo_long_color-black.png"
+src: "src/logo/coalfamily_logo_long_color-black.png"
+overlay: "src/logo/overlay/coalfamily_logo_long_color-black.png"
 ```
 ```image
 scale: true
 span: 3
 dark: true
-src: "src/logo/coalsoft_logo_long_color-white.png"
-overlay: "src/logo/overlay/coalsoft_logo_long_color-white.png"
+src: "src/logo/coalfamily_logo_long_color-white.png"
+overlay: "src/logo/overlay/coalfamily_logo_long_color-white.png"
 ```
 ### Ke stažení
 #### Tmavá verze
 ```download
 title: Tmavá verze barevného loga (.png)
-filename: coalsoft_logo_long_color-black.png
+filename: coalfamily_logo_long_color-black.png
 subtitle: 21 kB
 span: 2
-url: "src/logo/coalsoft_logo_long_color-black.png"
+url: "src/logo/coalfamily_logo_long_color-black.png"
 ```
 ```download
 title: Tmavá verze barevného loga (.svg)
-filename: coalsoft_logo_long_color-black.svg
+filename: coalfamily_logo_long_color-black.svg
 subtitle: 4 kB
 span: 2
-url: "src/logo/svg/coalsoft_logo_long_color-black.svg"
+url: "src/logo/svg/coalfamily_logo_long_color-black.svg"
 ```
 ```download
 title: Tmavá verze barevného loga (.pdf)
-filename: coalsoft_logo_long_color-black.pdf
+filename: coalfamily_logo_long_color-black.pdf
 subtitle: 27 kB
 span: 2
-url: "src/logo/pdf/coalsoft_logo_long_color-black.pdf"
+url: "src/logo/pdf/coalfamily_logo_long_color-black.pdf"
 ```
 #### Světlá verze
 ```download
 title: Světlá verze barevného loga (.png)
-filename: coalsoft_logo_long_color-white.png
+filename: coalfamily_logo_long_color-white.png
 subtitle: 21 kB
 span: 2
-url: "src/logo/coalsoft_logo_long_color-white.png"
+url: "src/logo/coalfamily_logo_long_color-white.png"
 ```
 ```download
 title: Světlá verze barevného loga (.svg)
-filename: coalsoft_logo_long_color-white.svg
+filename: coalfamily_logo_long_color-white.svg
 subtitle: 4 kB
 span: 2
-url: "src/logo/svg/coalsoft_logo_long_color-white.svg"
+url: "src/logo/svg/coalfamily_logo_long_color-white.svg"
 ```
 ```download
 title: Světlá verze barevného loga (.pdf)
-filename: coalsoft_logo_long_color-white.pdf
+filename: coalfamily_logo_long_color-white.pdf
 subtitle: 27 kB
 span: 2
-url: "src/logo/pdf/coalsoft_logo_long_color-white.pdf"
+url: "src/logo/pdf/coalfamily_logo_long_color-white.pdf"
 ```
 
 ## Prosté logo (3 : 1)
@@ -293,66 +293,66 @@ url: "src/logo/pdf/coalsoft_logo_long_color-white.pdf"
 ```image
 scale: true
 span: 3
-src: "src/logo/coalsoft_logo_long_mono-black.png"
-overlay: "src/logo/overlay/coalsoft_logo_long_mono-black.png"
+src: "src/logo/coalfamily_logo_long_mono-black.png"
+overlay: "src/logo/overlay/coalfamily_logo_long_mono-black.png"
 ```
 ```image
 scale: true
 span: 3
 dark: true
-src: "src/logo/coalsoft_logo_long_mono-white.png"
-overlay: "src/logo/overlay/coalsoft_logo_long_mono-white.png"
+src: "src/logo/coalfamily_logo_long_mono-white.png"
+overlay: "src/logo/overlay/coalfamily_logo_long_mono-white.png"
 ```
 
 ### Ke stažení
 #### Tmavá verze
 ```download
 title: Tmavá verze prostého loga (.png)
-filename: coalsoft_logo_long_mono-black.png
+filename: coalfamily_logo_long_mono-black.png
 subtitle: 21 kB
 span: 2
-url: "src/logo/coalsoft_logo_long_mono-black.png"
+url: "src/logo/coalfamily_logo_long_mono-black.png"
 ```
 ```download
 title: Tmavá verze prostého loga (.svg)
-filename: coalsoft_logo_long_mono-black.svg
+filename: coalfamily_logo_long_mono-black.svg
 subtitle: 4 kB
 span: 2
-url: "src/logo/svg/coalsoft_logo_long_mono-black.svg"
+url: "src/logo/svg/coalfamily_logo_long_mono-black.svg"
 ```
 ```download
 title: Tmavá verze prostého loga (.pdf)
-filename: coalsoft_logo_long_mono-black.pdf
+filename: coalfamily_logo_long_mono-black.pdf
 subtitle: 31 kB
 span: 2
-url: "src/logo/pdf/coalsoft_logo_long_mono-black.pdf"
+url: "src/logo/pdf/coalfamily_logo_long_mono-black.pdf"
 ```
 #### Světlá verze
 ```download
 title: Světlá verze prostého loga (.png)
-filename: coalsoft_logo_long_mono-white.png
+filename: coalfamily_logo_long_mono-white.png
 subtitle: 19 kB
 span: 2
-url: "src/logo/coalsoft_logo_long_mono-white.png"
+url: "src/logo/coalfamily_logo_long_mono-white.png"
 ```
 ```download
 title: Světlá verze prostého loga (.svg)
-filename: coalsoft_logo_long_mono-white.svg
+filename: coalfamily_logo_long_mono-white.svg
 subtitle: 4 kB
 span: 2
-url: "src/logo/svg/coalsoft_logo_long_mono-white.svg"
+url: "src/logo/svg/coalfamily_logo_long_mono-white.svg"
 ```
 ```download
 title: Světlá verze prostého loga (.pdf)
-filename: coalsoft_logo_long_mono-white.pdf
+filename: coalfamily_logo_long_mono-white.pdf
 subtitle: 31 kB
 span: 2
-url: "src/logo/pdf/coalsoft_logo_long_mono-white.pdf"
+url: "src/logo/pdf/coalfamily_logo_long_mono-white.pdf"
 ```
 
 ## Kompletní logotyp ke stažení
 ```download
-title: coalsoft logotyp (.zip)
+title: coalfamily logotyp (.zip)
 subtitle: 695 kB | JPG, PNG, SVG, PDF
-url: assets/coalsoft_logotyp.zip
+url: assets/coalfamily_logotyp.zip
 ```
